@@ -107,7 +107,6 @@ Todos los errores se muestran en `stderr` y el programa termina con código de s
 .
 ├── main.go              # Código principal del programa
 ├── go.mod              # Módulo Go
-├── TODO.md             # Lista de tareas y progreso
 ├── README.md           # Este archivo
 └── ssllabs-api-docs-v2-deprecated.md  # Documentación de la API
 ```
